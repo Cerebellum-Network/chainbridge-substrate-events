@@ -3,7 +3,7 @@ module github.com/Cerebellum-Network/chainbridge-substrate-events
 go 1.13
 
 require (
-	github.com/Cerebellum-Network/go-substrate-rpc-client/v5 v5.0.0-cere
+	github.com/Cerebellum-Network/go-substrate-rpc-client/v6 v6.0.0 // indirect
 	github.com/OneOfOne/xxhash v1.2.5 // indirect
 	github.com/aristanetworks/goarista v0.0.0-20170210015632-ea17b1a17847 // indirect
 	github.com/aws/aws-sdk-go v1.25.48 // indirect
