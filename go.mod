@@ -1,18 +1,24 @@
 module github.com/Cerebellum-Network/chainbridge-substrate-events
 
-go 1.13
+go 1.21
+
+toolchain go1.21.5
+
+require github.com/Cerebellum-Network/go-substrate-rpc-client/v7 v7.0.1-rc
 
 require (
-	github.com/Cerebellum-Network/go-substrate-rpc-client/v6 v6.0.2 // indirect
-	github.com/OneOfOne/xxhash v1.2.5 // indirect
-	github.com/aristanetworks/goarista v0.0.0-20170210015632-ea17b1a17847 // indirect
-	github.com/aws/aws-sdk-go v1.25.48 // indirect
-	github.com/elastic/gosigar v0.8.1-0.20180330100440-37f05ff46ffa // indirect
-	github.com/pborman/uuid v0.0.0-20170112150404-1b00554d8222 // indirect
-	github.com/rs/xhandler v0.0.0-20160618193221-ed27b6fd6521 // indirect
-	github.com/spaolacci/murmur3 v1.0.1-0.20190317074736-539464a789e9 // indirect
-	github.com/steakknife/bloomfilter v0.0.0-20180922174646-6819c0d2a570 // indirect
-	github.com/steakknife/hamming v0.0.0-20180906055917-c99c65617cd3 // indirect
-	github.com/urfave/cli v1.22.1 // indirect
-	github.com/wsddn/go-ecdh v0.0.0-20161211032359-48726bab9208 // indirect
+	github.com/ChainSafe/go-schnorrkel v1.1.0 // indirect
+	github.com/cosmos/go-bip39 v1.0.0 // indirect
+	github.com/decred/base58 v1.0.5 // indirect
+	github.com/decred/dcrd/crypto/blake256 v1.0.1 // indirect
+	github.com/ethereum/go-ethereum v1.13.10 // indirect
+	github.com/gtank/merlin v0.1.1 // indirect
+	github.com/gtank/ristretto255 v0.1.2 // indirect
+	github.com/holiman/uint256 v1.2.4 // indirect
+	github.com/mimoo/StrobeGo v0.0.0-20220103164710-9a04d6ca976b // indirect
+	github.com/pierrec/xxHash v0.1.5 // indirect
+	github.com/vedhavyas/go-subkey v1.0.3 // indirect
+	golang.org/x/crypto v0.18.0 // indirect
+	golang.org/x/exp v0.0.0-20240112132812-db7319d0e0e3 // indirect
+	golang.org/x/sys v0.16.0 // indirect
 )
