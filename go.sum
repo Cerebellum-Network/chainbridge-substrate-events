@@ -2,6 +2,10 @@ github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03
 github.com/Cerebellum-Network/go-substrate-rpc-client/v6 v6.0.2/go.mod h1:rOHTPlfCs+jqc9zPRTtH1XK8BsBeR2cdNBEoijjyi1Y=
 github.com/Cerebellum-Network/go-substrate-rpc-client/v7 v7.0.1-rc h1:HGg29xHzn64oYqlsPDGfi2eHJHYWp9hqzVjjW1k58/0=
 github.com/Cerebellum-Network/go-substrate-rpc-client/v7 v7.0.1-rc/go.mod h1:jWRJ6bf690StnOgY9hxZ8bR8CPDk3+dd6aGU0StFKM8=
+github.com/Cerebellum-Network/go-substrate-rpc-client/v8 v8.0.1-rc h1:U/o8tNQzsjRz5lQS1Zdfhm4ot/vfviAD3mVaEI35egE=
+github.com/Cerebellum-Network/go-substrate-rpc-client/v8 v8.0.1-rc/go.mod h1:3NiCQzqkio9HRDnP3Kck3RWFrF+pa7x/UYhD5vjmttA=
+github.com/Cerebellum-Network/go-substrate-rpc-client/v8 v8.0.2-rc h1:R1ZegZvpBaCaZ8nYih8qZRiFqzoJYeNG0JVLnlEtleA=
+github.com/Cerebellum-Network/go-substrate-rpc-client/v8 v8.0.2-rc/go.mod h1:3NiCQzqkio9HRDnP3Kck3RWFrF+pa7x/UYhD5vjmttA=
 github.com/ChainSafe/go-schnorrkel v1.1.0 h1:rZ6EU+CZFCjB4sHUE1jIu8VDoB/wRKZxoe1tkcO71Wk=
 github.com/ChainSafe/go-schnorrkel v1.1.0/go.mod h1:ABkENxiP+cvjFiByMIZ9LYbRoNNLeBLiakC1XeTFxfE=
 github.com/OneOfOne/xxhash v1.2.5/go.mod h1:eZbhyaAYD41SGSSsnmcpxVoRiQ/MPUTjUdIIOT9Um7Q=
@@ -59,6 +63,8 @@ github.com/vedhavyas/go-subkey v1.0.3 h1:iKR33BB/akKmcR2PMlXPBeeODjWLM90EL98OrOG
 github.com/vedhavyas/go-subkey v1.0.3/go.mod h1:CloUaFQSSTdWnINfBRFjVMkWXZANW+nd8+TI5jYcl6Y=
 github.com/vedhavyas/go-subkey v1.0.4 h1:QwjBZx4w7qXC2lmqol2jJfhaNXPI9BsgLZiMiCwqGDU=
 github.com/vedhavyas/go-subkey v1.0.4/go.mod h1:aOIil/KS9hJlnr9ZSQKSoXdu/MbnkCxG4x9IOlLsMtI=
+github.com/vedhavyas/go-subkey/v2 v2.0.0 h1:LemDIsrVtRSOkp0FA8HxP6ynfKjeOj3BY2U9UNfeDMA=
+github.com/vedhavyas/go-subkey/v2 v2.0.0/go.mod h1:95aZ+XDCWAUUynjlmi7BtPExjXgXxByE0WfBwbmIRH4=
 github.com/wsddn/go-ecdh v0.0.0-20161211032359-48726bab9208/go.mod h1:IotVbo4F+mw0EzQ08zFqg7pK3FebNXpaMsRy2RT+Ees=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/crypto v0.0.0-20200728195943-123391ffb6de/go.mod h1:LzIPMQfyMNhhGPhUkYOs5KpL4U8rLKemX1yGLhDgUto=
