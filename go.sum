@@ -1,5 +1,5 @@
-github.com/Cerebellum-Network/go-substrate-rpc-client/v9 v9.0.2 h1:x5hfEv60V9flpG/zPPxCRw4OxWBZgoABf3QSvzuu6gY=
-github.com/Cerebellum-Network/go-substrate-rpc-client/v9 v9.0.2/go.mod h1:xaMq//F++u8q/cGcGAUvHEbMKfOeIY15ioQNCXjEUa0=
+github.com/Cerebellum-Network/go-substrate-rpc-client/v9 v9.0.3 h1:sDALT60rVsICvSX9gSMejFeOrkeIziLsQWqOQUkBlPo=
+github.com/Cerebellum-Network/go-substrate-rpc-client/v9 v9.0.3/go.mod h1:xaMq//F++u8q/cGcGAUvHEbMKfOeIY15ioQNCXjEUa0=
 github.com/ChainSafe/go-schnorrkel v1.1.0 h1:rZ6EU+CZFCjB4sHUE1jIu8VDoB/wRKZxoe1tkcO71Wk=
 github.com/ChainSafe/go-schnorrkel v1.1.0/go.mod h1:ABkENxiP+cvjFiByMIZ9LYbRoNNLeBLiakC1XeTFxfE=
 github.com/btcsuite/btcd/btcec/v2 v2.2.0 h1:fzn1qaOt32TuLjFlkzYSsBC35Q3KUjT1SwPxiMSCF5k=

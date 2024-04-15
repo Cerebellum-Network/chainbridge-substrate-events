@@ -4,7 +4,7 @@ go 1.21
 
 toolchain go1.21.5
 
-require github.com/Cerebellum-Network/go-substrate-rpc-client/v9 v9.0.2
+require github.com/Cerebellum-Network/go-substrate-rpc-client/v9 v9.0.3
 
 require (
 	github.com/ChainSafe/go-schnorrkel v1.1.0 // indirect
